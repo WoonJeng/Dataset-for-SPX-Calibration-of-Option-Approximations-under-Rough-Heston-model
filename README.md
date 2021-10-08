@@ -9,14 +9,13 @@ The data and code for SPX options on 18th June 2021 are from the following files
 3. matlabplot.m
 
 Remark 1 on "spx_decomp.csv":
-The columns names in the csv file are missing, but they are :
-
-Column A: Maturity time T
-Column B: Strike Price K
-Column C: Bid Implied Volatility
-Column D: Ask Implied Volatility
-Column E: Mid Implied Volatility (mid of Bid and Ask Implied Volatility)
-Column F: Implied volatility computed through the approximation formula of decomposition formula with parameters stated in the paper.
+The columns names in the csv file are missing, but they are  
+Column A: Maturity time T  
+Column B: Strike Price K  
+Column C: Bid Implied Volatility  
+Column D: Ask Implied Volatility  
+Column E: Mid Implied Volatility (mid of Bid and Ask Implied Volatility)  
+Column F: Implied volatility computed through the approximation formula of decomposition formula with parameters stated in the paper.  
 
 
 The data and code for SPX options on 12th and 15th September 2008 are from the following files:
