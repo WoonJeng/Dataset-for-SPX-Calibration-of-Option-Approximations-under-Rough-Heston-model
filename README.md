@@ -9,7 +9,8 @@ The data and code for SPX options on 18th June 2021 are from the following files
 3. matlabplot.m
 
 Remark 1 on "spx_decomp.csv":
-The columns names in the csv file are missing, but they are \\
+The columns names in the csv file are missing, but they are :
+
 Column A: Maturity time T
 Column B: Strike Price K
 Column C: Bid Implied Volatility
